@@ -3,7 +3,8 @@
 
 
 <h2> Description </h2>
-This website has every feature of a social site implemented in it. Users can create their accounts, log in, log out, write posts, view posts written by other members in the homepage, exchange messages with eachother, see all of the members that have already joined, view their profiles, edit the information on their own profile, as well as contact the admins of the website.<br/>
+This website has every feature of a social site implemented in it. Users can create their accounts, log in, log out, write posts, view posts written by other members in the homepage, exchange messages with eachother, see all of the members that have already joined, view their profiles, edit the information on their own profile, as well as contact the admins of the website.</br>
+This website has been written in HTML, CSS, Javascript and PHP.<br/>
 
 ---
 
