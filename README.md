@@ -28,7 +28,7 @@ This website has been written in HTML, CSS, Javascript and PHP.<br/>
 
 - Move the "files" folder to "htdocs" (default location is in `C:\xampp\htdocs\` ).
 
-- Finally, open your browser and go to `localhost/webProject/files/`.
+- Finally, open your browser and go to `localhost/files/`.
 
 #### Running the website (Linux)
 - Open the Control Panel by running "manager-linux-x64.run" (default location is in `/opt/lampp/` ).
@@ -47,4 +47,4 @@ This website has been written in HTML, CSS, Javascript and PHP.<br/>
 
 - Move the "files" folder to "htdocs" (default location is in `/opt/lampp/htdocs/` ).
 
-- Finally, open your browser and go to `localhost/webProject/files/`.
+- Finally, open your browser and go to `localhost/files/`.
