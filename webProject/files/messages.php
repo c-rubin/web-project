@@ -7,9 +7,6 @@
         $user = $_SESSION["username"];
         $pw = $_SESSION["password"];
     }
-    if(isset($_POST["postText"]) && $_POST["postText"]!=""){
-        uploadPost($_POST["postText"]);
-    }
     if(isset($_GET["return"]) && $_GET["return"]=="yes"){
         unset($_SESSION["msgUser"]);
         unset($_POST["msgUser"]);
